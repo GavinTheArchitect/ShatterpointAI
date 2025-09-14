@@ -1,9 +1,9 @@
 # Shatterpoint AI
 
-[![GitHub stars](https://img.shields.io/github/stars/GavinTheArchitect/shatterpoint-ai?style=social)](https://github.com/GavinTheArchitect/shatterpoint-ai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/GavinTheArchitect/shatterpoint-ai?style=social)](https://github.com/GavinTheArchitect/shatterpoint-ai/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/GavinTheArchitect/shatterpoint-ai)](https://github.com/GavinTheArchitect/shatterpoint-ai/issues)
-[![GitHub license](https://img.shields.io/github/license/GavinTheArchitect/shatterpoint-ai)](https://github.com/GavinTheArchitect/shatterpoint-ai/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/GavinTheArchitect/shatterpoint-ai?style=social)](https://github.com/GavinTheArchitect/ShatterPointAI/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GavinTheArchitect/shatterpoint-ai?style=social)](https://github.com/GavinTheArchitect/ShatterPointAI/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/GavinTheArchitect/shatterpoint-ai)](https://github.com/GavinTheArchitect/ShatterPointAI/issues)
+[![GitHub license](https://img.shields.io/github/license/GavinTheArchitect/shatterpoint-ai)](https://github.com/GavinTheArchitect/ShatterPointAI/blob/main/LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 
